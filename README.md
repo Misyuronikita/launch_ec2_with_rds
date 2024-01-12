@@ -1,4 +1,4 @@
-# Task 2: Create an Amazon EKS Cluster and install kubectl using Terraform
+# Task 3: Launch EC2 and RDS Instance and connect to RDS Instance from EC2 Instance using Terraform
 
 ## <center>Lab Details</center>
 1. In this tutorial, you will be guided step-by-step through the process of setting up an EC2 Instance and an RDS Instance, and then establishing a connection between the RDS instance and the EC2 Instance through Terraform.
